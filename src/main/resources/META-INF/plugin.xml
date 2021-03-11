@@ -16,4 +16,7 @@
         <listener class="com.github.lihuu.simplecodegenerator.listeners.MyProjectManagerListener"
                   topic="com.intellij.openapi.project.ProjectManagerListener"/>
     </applicationListeners>
+    <actions>
+
+    </actions>
 </idea-plugin>

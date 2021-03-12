@@ -18,5 +18,8 @@
     </applicationListeners>
     <actions>
 
+        <action id="test.alert" class="com.github.lihuu.simplecodegenerator.services.TestAlert" text="TestAlert">
+            <add-to-group group-id="BuildMenu" anchor="first"/>
+        </action>
     </actions>
 </idea-plugin>
